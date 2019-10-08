@@ -1,0 +1,6 @@
+framework module Pods_FFDB_DemoTests {
+  umbrella header "Pods-FFDB-DemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
